@@ -97,6 +97,7 @@ else
 
         {
             Console.WriteLine("Thanks for playing the Cup of Linux quiz!!!!");
+            Console.WriteLine("Press any key to continue...");
             Console.ReadKey();        
             Console.Beep();    
         }
